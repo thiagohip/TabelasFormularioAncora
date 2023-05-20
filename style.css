@@ -1,0 +1,17 @@
+table{
+    width: 10rem;
+    height: 10rem;
+    border-collapse: collapse;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+}
+
+label, input{
+   margin-bottom: 15px;
+}
+
+section{
+    margin-bottom: 100vh;
+}
